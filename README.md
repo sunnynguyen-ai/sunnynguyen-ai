@@ -22,7 +22,7 @@
 ![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnynguyen-ai&show_icons=true&theme=radical)
 
 ### 🎯 Featured Projects
-🏠 **[House Price Prediction](https://github.com/sunnynguyen-ai/house-price-prediction)** - End-to-end ML pipeline with Flask deployment, achieving 87% R² score
+🏠 **[House Price Prediction](https://github.com/sunnynguyen-ai/house-price-prediction)** - Complete ML pipeline with Flask deployment, data preprocessing, and model evaluation
 
 ### 📫 Let's Connect!
 - 🌐 Website: [sunnyinspires.com](https://sunnyinspires.com)
