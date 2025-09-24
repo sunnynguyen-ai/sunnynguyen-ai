@@ -23,9 +23,12 @@
 
 ### 🎯 Featured Projects
 
- **[House Price Prediction](https://github.com/sunnynguyen-ai/house-price-prediction)** - Complete ML pipeline with Flask deployment, data preprocessing, and model evaluation
+**[Fraud Detection System](https://github.com/sunnynguyen-ai/fraud-detection-system)** - Real-time fraud detection using ensemble ML models with streaming data, explainable AI (SHAP), and production-ready deployment using FastAPI and Docker
 
- **[Medical Image Classifier](https://github.com/sunnynguyen-ai/medical-image-classifier)** - CNN for pneumonia detection in chest X-rays using TensorFlow and Streamlit
+**[Medical Image Classifier](https://github.com/sunnynguyen-ai/medical-image-classifier)** - CNN for pneumonia detection in chest X-rays using TensorFlow and Streamlit
+
+**[House Price Prediction](https://github.com/sunnynguyen-ai/house-price-prediction)** - Complete ML pipeline with Flask deployment, data preprocessing, and model evaluation
+
 
 ### 📫 Let's Connect!
 - 🌐 Website: [sunnyinspires.com](https://sunnyinspires.com)
