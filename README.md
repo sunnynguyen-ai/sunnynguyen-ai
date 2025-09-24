@@ -1,22 +1,31 @@
 # Hi there! 👋 I'm Sunny Nguyen
 
-## 🚀 Machine Learning Engineer | Python, TensorFlow, PyTorch | Passionate about Computer Vision & NLP
+## 🚀 Deep Learning Researcher | Large Language Models & Foundation Model Safety
 
 ### 🔭 Currently Working On
-- Building advanced computer vision models for real-world applications
-- Exploring transformer architectures for NLP tasks
-- Contributing to open-source ML projects
+- **Mechanistic Interpretability**: Building tools to understand how transformers process information and form internal representations
+- **LLM Training Efficiency**: Investigating novel architectures and optimization techniques for parameter-efficient language models
+- **Foundation Model Safety**: Developing evaluation frameworks and alignment techniques for safer, more reliable LLMs
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### 🛠️ Tech Stack & Expertise
+**Core ML/AI:**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?style=flat-square)
+![JAX](https://img.shields.io/badge/-JAX-4285F4?style=flat-square&logo=google&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/-DeepSpeed-FF6B35?style=flat-square)
+
+**LLM Specialized:**  
+![PEFT](https://img.shields.io/badge/-PEFT-FF9A00?style=flat-square)
+![vLLM](https://img.shields.io/badge/-vLLM-2E8B57?style=flat-square)
+![Accelerate](https://img.shields.io/badge/-Accelerate-FF6B6B?style=flat-square)
+![TransformerLens](https://img.shields.io/badge/-TransformerLens-9B59B6?style=flat-square)
+
+**Research & MLOps:**  
+![WandB](https://img.shields.io/badge/-Weights%20&%20Biases-FFBE0B?style=flat-square&logo=weightsandbiases&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 ### 📊 GitHub Stats
 ![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnynguyen-ai&show_icons=true&theme=radical)
