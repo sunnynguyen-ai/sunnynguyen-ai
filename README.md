@@ -71,9 +71,8 @@
 - MLOps best practices for large-scale model deployment
 
 ### 📫 Let's Connect!
-- 🌐 Website: [sunnyinspires.com](https://sunnyinspires.com)
-- 📧 Email: sunny.nguyen@onimail.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/sunnynguyen-ai)
+- 📧 Email: sunny_nguyen@onimail.com
+
 
 ### 🎨 Fun Fact
 When I'm not decoding neural networks, you'll find me capturing the beauty of nature through photography 📸 or building sustainable tech solutions for environmental challenges! 🌱
