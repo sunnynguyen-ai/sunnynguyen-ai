@@ -28,7 +28,7 @@
 
 
 ### 📊 GitHub Stats
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnynguyen-ai&show_icons=true&theme=radical)
+![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnynguyen-ai&show_icons=true&theme=radical&1)
 
 
 ### 🎯 Featured Projects
