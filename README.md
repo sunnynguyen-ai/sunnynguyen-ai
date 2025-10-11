@@ -70,8 +70,6 @@
 - Constitutional AI and alignment techniques
 - MLOps best practices for large-scale model deployment
 
-### 📫 Let's Connect!
-- 📧 Email: sunny_nguyen@onimail.com
 
 
 ### 🎨 Fun Fact
